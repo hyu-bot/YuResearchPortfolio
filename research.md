@@ -11,7 +11,7 @@ permalink: /research/
 <div class="paper">
 <div style="text-align: center;"><h3>Hierarchical Reinforcement Learning for Fragile Object Dexterous Manipulation</h3></div>
 <div style="text-align: center;">
-<img src="assets/img/MUJOCO.jpg" alt="Developed MuJoCo Environment for HIL" width="300"> </div>
+<img src="{{'assets/img/MUJOCO.jpg' | relative_url }}" alt="Developed MuJoCo Environment for HIL" width="300"> </div>
 <ul>
   <li><strong>Description:</strong> Brief description of the paper.</li>
   <li><strong>Machine Learning Keywords:</strong> Hierarchical Reinforcement Learning, DQN</li>
