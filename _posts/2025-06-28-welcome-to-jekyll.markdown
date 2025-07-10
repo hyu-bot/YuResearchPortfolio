@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to My Workspace!"
-categories: jekyll update
+categories: welcome message
 ---
 
   Hi, I am an Assitant Professor at Virginia Tech. I am leading a research group with students RA 
