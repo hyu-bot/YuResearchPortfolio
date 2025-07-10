@@ -3,5 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: home
+title: Home
 ---
+
+# Welcome
+
+This is my research portfolio.
+
+[Research]({{ '/research/' | relative_url }})
+
