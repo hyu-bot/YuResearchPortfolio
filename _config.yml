@@ -26,7 +26,7 @@ description: >
 
 theme: minima
 baseurl: ""  # you can leave empty if using hyu‑bot.github.io
-url: "https://hyu-bot.github.io/YuResearchPortfolio"
+#url: "https://hyu-bot.github.io/YuResearchPortfolio"
 
 plugins:
   - jekyll-feed
