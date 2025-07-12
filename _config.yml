@@ -25,6 +25,8 @@ description: >
   Dr. Hongrui Yu's research portfolio and robot demos.
 
 theme: minima
+baseurl: ""  # you can leave empty if using hyu‑bot.github.io
+url: "https://hyu-bot.github.io/YuResearchPortfolio"
 
 plugins:
   - jekyll-feed
