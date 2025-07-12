@@ -55,7 +55,7 @@ permalink: /research/
 
 <div class="paper">
 <div style="text-align: center;"><h3>Knowledge Sharing and Recommendation Agentic AI</h3></div>
-<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/img/LLMSafety.svg" alt="LLM Knowledge Tree Generation" width="300">
+<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/img/LLMsafety.svg" alt="LLM Knowledge Tree Generation" width="300">
 </div>
 
 <ul>
@@ -70,6 +70,7 @@ permalink: /research/
 
 <div class="paper">
 <div style="text-align: center;"><h3>Generalist Robot Learning with Hierarchical Knowledge Graph Extracted from Crowdsourced Internet Data</h3></div>
+
 <div style="text-align: center;"><img src="{{ site.baseurl }}/assets/img/LLMHIL.svg" alt="LLM-HIL Generalizable Embodied AI Learning" width="500"></div>
 <ul>
 <li><strong>Description:</strong> A generalizable embodied AI learning framework that leverages foundational models and hierarchical knowledge representation to process crowdsourced natural language instructions from the internet, minimizing supervision and data complexity for VLA/VLM </li>
