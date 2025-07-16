@@ -14,7 +14,7 @@ permalink: /research/
 <img src="{{ site.baseurl }}/assets/img/MUJOCO.jpg" alt="Developed MuJoCo Environment for HIL" width="300"> 
 </div>
 <ul>
-<li><strong>Description:</strong> Brief description of the paper.</li>
+<li><strong>Description:</strong> Hierarchical Reinforcement Learning with force feedback for improved sample efficiency in dexterous manipulation for fragile objects.</li>
 <li><strong>Machine Learning Keywords:</strong> Hierarchical Reinforcement Learning, DQN</li>
 <li><strong>Robot:</strong> UR5e Simulated in Gazebo and MuJoCo</li>
 <li><strong>Status/Venue:</strong> Accepted @ ICRA2025</li>
